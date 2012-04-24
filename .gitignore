@@ -1,5 +1,18 @@
 *.class
 *.log
+*.bin
+*.map
+*.jar
+pg.cfg
+*~
+
+#eclipse
+.settings
+.cache
+.classpath
+.project
+.scala_dependencies
+
 
 # sbt specific
 dist/*
